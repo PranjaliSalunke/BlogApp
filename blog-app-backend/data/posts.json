@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Node.js",
+    "author": "John Doe",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It is designed to build scalable network applications.",
+    "excerpt": "Node.js is a runtime that allows developers to build scalable applications with JavaScript.",
+    "comments": [
+      {
+        "username": "jane_doe",
+        "comment": "Great post! Very informative."
+      },
+      {
+        "username": "admin",
+        "comment": "Thanks for the feedback!"
+      },
+      {
+        "username": "john_doe",
+        "comment": "This is a new comment!"
+      },
+      {
+        "username": "pranjali",
+        "comment": " new comment!"
+      },
+      {
+        "username": "current_user",
+        "comment": "hii"
+      },
+      {
+        "username": "current_user",
+        "comment": "hii"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mastering Express.js",
+    "author": "Jane Smith",
+    "content": "Express.js is a fast, unopinionated, minimalist web framework for Node.js. It simplifies routing and middleware integration.",
+    "excerpt": "Express.js is a web framework for Node.js that helps build robust APIs and web applications.",
+    "comments": [
+      {
+        "username": "dev_guy",
+        "comment": "This helped me a lot in understanding Express.js."
+      },
+      {
+        "username": "current_user",
+        "comment": "hello"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Understanding MongoDB",
+    "author": "Alice Cooper",
+    "content": "MongoDB is a document-oriented NoSQL database that stores data in JSON-like format, making it more flexible and scalable.",
+    "excerpt": "MongoDB allows developers to store unstructured data in the form of documents and collections.",
+    "comments": []
+  }
+]
